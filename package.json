@@ -11,6 +11,6 @@
   "dependencies": {
     "node-random-name": "^1.0.1",
     "random-email": "^1.0.3",
-    "uuid": "^8.2.0"
+    "uuid": "^14.0.0"
   }
 }
